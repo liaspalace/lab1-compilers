@@ -36,7 +36,13 @@
 
 <img width="960" height="582" alt="Screenshot 2026-04-01 at 08 29 59" src="https://github.com/user-attachments/assets/50c5be2d-22c6-4009-a4a6-3e76c833a19a" />
 
-### 3.3: Após remoções de comentários: 
+### 3.3: Após remoções de comentários:
+
+<img width="837" height="703" alt="Screenshot 2026-04-01 at 08 30 45" src="https://github.com/user-attachments/assets/2165baf7-07a0-467d-9d8d-a4f9b8358568" />
+
+### 3.4: Substituição = por := 
+
+
 
 
 
