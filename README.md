@@ -70,8 +70,7 @@
 
 -  Explicação: Os 3 modelos tokenizaram o exemplo do mesmo modo dos “tokens” gerados com os tokens léxicos que criamos nas atividades anteriores. Entretanto, o terceiro modelo diferiu um pouco por ter tokenizado o número 60 por completo,uma vez que os outros dois tokenizaram o número como dois tokens diferentes(6 e 0). Essa diferença observada nos outros 2 modelo discorre pela maneira que o modelo foi treinado, ou seja, durante o seu training o número 60 não teve muitas aparições. Nesse sentido, modelos mais novos possuem um training data maior, o que aumenta a quantidade de números aprendidos.
 -  Diferença entre token léxico e BPE: Os tokens léxicos seguem a gramática regular da linguagem, enquanto que os tokens BPE seguem a frequência de caracteres em um texto e combinações entre os mesmos.
-
-
-
+-  Por que o scanner de compilador precisa ser preciso e seguir a gramática, enquanto o da OpenAI não?
+    - O objetivo de um compilador é entender se a gramática está sendo utilizada de forma correta, por esse motivo o scanner de compilador precisa ser preciso e seguir a gramática. Entretanto, para LLM o que importa é o significado que cada token carrega para o texto como um todo.
 
 
