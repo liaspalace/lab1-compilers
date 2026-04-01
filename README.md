@@ -64,6 +64,14 @@
 
 <img width="739" height="366" alt="Screenshot 2026-04-01 at 12 46 53" src="https://github.com/user-attachments/assets/bc80501d-0a95-4906-a4fd-720112dd2bde" />
 
+# Atividade 6 – OpenAI Tokenizer × Tokens de Compilador 
+
+<img width="1194" height="682" alt="Screenshot 2026-04-01 at 12 52 04" src="https://github.com/user-attachments/assets/28e4e714-d16a-4d91-8209-a51ccdcb13b9" />
+
+-  Explicação: Os 3 modelos tokenizaram o exemplo do mesmo modo dos “tokens” gerados com os tokens léxicos que criamos nas atividades anteriores. Entretanto, o terceiro modelo diferiu um pouco por ter tokenizado o número 60 por completo,uma vez que os outros dois tokenizaram o número como dois tokens diferentes(6 e 0). Essa diferença observada nos outros 2 modelo discorre pela maneira que o modelo foi treinado, ou seja, durante o seu training o número 60 não teve muitas aparições. Nesse sentido, modelos mais novos possuem um training data maior, o que aumenta a quantidade de números aprendidos.
+-  Diferença entre token léxico e BPE: Os tokens léxicos seguem a gramática regular da linguagem, enquanto que os tokens BPE seguem a frequência de caracteres em um texto e combinações entre os mesmos.
+
+
 
 
 
