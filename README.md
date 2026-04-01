@@ -32,5 +32,13 @@
 ### 3.1: remove //
 <img width="958" height="530" alt="Screenshot 2026-04-01 at 08 27 36" src="https://github.com/user-attachments/assets/59b1bfb6-98c1-4b9a-8635-4fad2e74093b" />
 
+### 3.2: (remove /* */)
+
+<img width="960" height="582" alt="Screenshot 2026-04-01 at 08 29 59" src="https://github.com/user-attachments/assets/50c5be2d-22c6-4009-a4a6-3e76c833a19a" />
+
+### 3.3: Após remoções de comentários: 
+
+
+
 
 
