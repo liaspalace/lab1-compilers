@@ -29,7 +29,7 @@
 
 # Atividade 3 - Find/Replace com regex em editores de texto 
 
-#### 3.1: remove //
+### 3.1: remove //
 <img width="958" height="530" alt="Screenshot 2026-04-01 at 08 27 36" src="https://github.com/user-attachments/assets/59b1bfb6-98c1-4b9a-8635-4fad2e74093b" />
 
 
