@@ -26,3 +26,11 @@
 <img width="578" height="675" alt="Screenshot 2026-04-01 at 08 26 25" src="https://github.com/user-attachments/assets/6727be1f-9a84-4320-8181-a61c092f12e0" />
 
 -  Explicação: A expressão regular foi construída a partir do material do professor para reconhecer identificadores, números, operadores e espaços. Utilizando a flag global, foi possível encontrar todos os elementos da string separadamente. Assim, a expressão foi dividida em tokens, como num analisador léxico.
+
+# Atividade 3 - Find/Replace com regex em editores de texto 
+
+#### 3.1: remove //
+<img width="958" height="530" alt="Screenshot 2026-04-01 at 08 27 36" src="https://github.com/user-attachments/assets/59b1bfb6-98c1-4b9a-8635-4fad2e74093b" />
+
+
+
