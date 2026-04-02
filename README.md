@@ -19,6 +19,8 @@
 
 <img width="1029" height="391" alt="Screenshot 2026-04-01 at 08 21 46" src="https://github.com/user-attachments/assets/7caa0699-1d7e-4ab4-b6cc-abd84fb56374" />
 
+-Explicação: O objetivo desta prática foi simular o comportamento inicial de um scanner, utilizando o comando read e filtros do Linux para tratar o código de entrada. Isso ilustra como o compilador organiza a leitura do arquivo original antes de iniciar a análise léxica propriamente dita.
+
 # Atividade 2 - Expressões Regulares
 
 <img width="1071" height="259" alt="Screenshot 2026-04-01 at 08 25 45" src="https://github.com/user-attachments/assets/0b3cdc11-bc34-4139-943d-3090f1a7440e" />
@@ -64,6 +66,8 @@
 
 <img width="739" height="366" alt="Screenshot 2026-04-01 at 12 46 53" src="https://github.com/user-attachments/assets/bc80501d-0a95-4906-a4fd-720112dd2bde" />
 
+- Explicação: Nesta etapa, exploramos o uso de expressões regulares para realizar substituições estruturadas em arquivos de dados e código-fonte. A atividade ilustra como a lógica de autômatos finitos permite tratar fluxos de informação, removendo elementos desnecessários e padronizando formatos.
+
 # Atividade 4 - RegExp em Python e Java
 
 ### 4.1: Tokens "ID, NUM, OP" (primeira instância) [Python]
@@ -83,6 +87,8 @@
 ### 4.5: Tokenizar a string do livro e imprimi-lo igual ao exemplo do livro [Java]
 <img width="1196" height="869" alt="Screenshot 2026-03-29 005842" src="https://github.com/user-attachments/assets/04fea65f-b3b7-4620-ade4-d5e7903b0e0e" />
 
+- Explicação: A atividade focou na criação de um processador léxico capaz de gerar tuplas de (tipo, lexema), simulando o fluxo real de um compilador. Ao implementar essa lógica no Google Colab e em Java, validamos a precisão necessária para identificar padrões como identificadores e operadores conforme as definições clássicas do 'Dragon Book'.
+
 # Atividade 5 - Autômatos Finitos com JFLAP
 
 ### Parte 1
@@ -96,6 +102,7 @@
 
 ![ex5-parte3](https://github.com/user-attachments/assets/9ddc65f7-cdd8-4816-a17d-a6f7025a6e53)
 
+- Explicação: Esta prática utilizou o JFLAP para visualizar o 'motor' lógico que sustenta o analisador léxico. Através da criação de DFAs para números e identificadores, pudemos compreender como o compilador decide, passo a passo, se uma sequência de caracteres pertence ou não à linguagem definida.
 
 # Atividade 6 – OpenAI Tokenizer × Tokens de Compilador 
 
@@ -106,4 +113,10 @@
 -  Por que o scanner de compilador precisa ser preciso e seguir a gramática, enquanto o da OpenAI não?
     - O objetivo de um compilador é entender se a gramática está sendo utilizada de forma correta, por esse motivo o scanner de compilador precisa ser preciso e seguir a gramática. Entretanto, para LLM o que importa é o significado que cada token carrega para o texto como um todo.
 
+# Comentários das alunas
 
+### Geovanna Brenzinger: O que achei mais interessante no analisador léxico é como ele serve de ponte entre o código bruto e a lógica do compilador. Usar gramáticas regulares e autômatos finitos para categorizar tokens mostra como uma estrutura matemática simples consegue processar volumes gigantes de dados com total precisão, garantindo que o computador entenda exatamente o que cada sequência de caracteres representa antes mesmo de começar a tradução do código.
+
+### Giulia Mattedi: Esse laboratório nos permitiu implementar um scanner, analisador léxico, para observar a conversão sistemática do código-fonte em unidades léxicas (tokens), etapa indispensável para o fluxo de compilação. Foi possível entender como os conceitos teóricos de autômatos finitos e gramáticas regulares são aplicados na prática para garantir um reconhecimento de padrões robusto e veloz.
+
+### Grazielle Almeida: O analisador léxico é interessante por atuar na etapa inicial da compilação, transformando o código-fonte em uma sequência organizada de tokens, identificando elementos como palavras-chave, operadores e identificadores com eficiência. Já o autômato finito se destaca por ser um modelo matemático baseado em estados e transições, capaz de reconhecer padrões de forma sistemática e eficiente, sendo amplamente utilizado na implementação de analisadores léxicos. Por sua vez, a gramática regular é relevante por descrever linguagens formais por meio de regras simples de produção, além de possuir uma forte relação com os autômatos finitos, já que toda linguagem regular pode ser reconhecida por esse modelo, o que reforça sua importância na teoria da computação.
