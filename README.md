@@ -66,21 +66,21 @@
 
 # Atividade 4 - RegExp em Python e Java
 
-# 4.1: Tokens "ID, NUM, OP" (primeira instância) [Python]
+### 4.1: Tokens "ID, NUM, OP" (primeira instância) [Python]
 <img width="975" height="593" alt="Screenshot 2026-03-28 190633" src="https://github.com/user-attachments/assets/fa884f09-7298-43a8-ad18-6c4cc32f5f7c" />
 
-# 4.2: Extrair email da web [Python]
+### 4.2: Extrair email da web [Python]
 <img width="811" height="259" alt="Screenshot 2026-03-29 001458" src="https://github.com/user-attachments/assets/8496ba59-287f-4aaa-8bae-1ba3874af530" />
 
-# 4.3: Tokenizar a string do livro e imprimi-lo igual ao exemplo do livro [Python]
+### 4.3: Tokenizar a string do livro e imprimi-lo igual ao exemplo do livro [Python]
 - Referência do livro: <img width="455" height="298" alt="Screenshot 2026-03-29 010014" src="https://github.com/user-attachments/assets/53603181-5e50-4c8b-9fa0-380e6de89c50" />
 
 <img width="608" height="681" alt="Screenshot 2026-03-29 004756" src="https://github.com/user-attachments/assets/fe771812-4f34-4aea-8ad0-a4580ed5c221" />
 
-# 4.4: Tokens "ID, NUM, OP" (primeira instância) [Java]
+### 4.4: Tokens "ID, NUM, OP" (primeira instância) [Java]
 <img width="1037" height="696" alt="Screenshot 2026-03-29 003503" src="https://github.com/user-attachments/assets/74a71974-6d1d-4930-b3ea-0bdaee7aee56" />
 
-#4.5: Tokenizar a string do livro e imprimi-lo igual ao exemplo do livro [Java]
+### 4.5: Tokenizar a string do livro e imprimi-lo igual ao exemplo do livro [Java]
 <img width="1196" height="869" alt="Screenshot 2026-03-29 005842" src="https://github.com/user-attachments/assets/04fea65f-b3b7-4620-ade4-d5e7903b0e0e" />
 
 # Atividade 5 - Autômatos Finitos com JFLAP
