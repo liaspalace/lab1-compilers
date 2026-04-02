@@ -19,7 +19,7 @@
 
 <img width="1029" height="391" alt="Screenshot 2026-04-01 at 08 21 46" src="https://github.com/user-attachments/assets/7caa0699-1d7e-4ab4-b6cc-abd84fb56374" />
 
--Explicação: O objetivo desta prática foi simular o comportamento inicial de um scanner, utilizando o comando read e filtros do Linux para tratar o código de entrada. Isso ilustra como o compilador organiza a leitura do arquivo original antes de iniciar a análise léxica propriamente dita.
+- Explicação: O objetivo desta prática foi simular o comportamento inicial de um scanner, utilizando o comando read e filtros do Linux para tratar o código de entrada. Isso ilustra como o compilador organiza a leitura do arquivo original antes de iniciar a análise léxica propriamente dita.
 
 # Atividade 2 - Expressões Regulares
 
