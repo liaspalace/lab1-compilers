@@ -64,6 +64,20 @@
 
 <img width="739" height="366" alt="Screenshot 2026-04-01 at 12 46 53" src="https://github.com/user-attachments/assets/bc80501d-0a95-4906-a4fd-720112dd2bde" />
 
+# Atividade 5 - Autômatos Finitos com JFLAP
+
+### Parte 1
+
+<img width="1893" height="1013" alt="ex5-parte1" src="https://github.com/user-attachments/assets/7d9e7fa7-1c22-4608-83a8-7d3e3b2ff52d" />
+
+### Parte 2
+<img width="1893" height="1014" alt="ex5-parte2" src="https://github.com/user-attachments/assets/6555dfee-5466-4d88-8551-b138fe6a471e" />
+
+### Parte 3
+
+![ex5-parte3](https://github.com/user-attachments/assets/9ddc65f7-cdd8-4816-a17d-a6f7025a6e53)
+
+
 # Atividade 6 – OpenAI Tokenizer × Tokens de Compilador 
 
 <img width="1194" height="682" alt="Screenshot 2026-04-01 at 12 52 04" src="https://github.com/user-attachments/assets/28e4e714-d16a-4d91-8209-a51ccdcb13b9" />
